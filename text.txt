@@ -17,3 +17,4 @@ Changed!!!
 И сюда добавляем! Проверим как работает Git!
 
 Git - ArchLinux!!
+Git - MacOS!!

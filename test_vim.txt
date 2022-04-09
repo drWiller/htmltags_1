@@ -5,3 +5,5 @@ test&
 More write
 
 Тестим Git! Смотрим что получится.
+
+Test MacOS!
