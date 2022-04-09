@@ -13,3 +13,5 @@ Lorem ipsum dolor sit amet, consectetur, adipisicing elit. Rem, ipsum? Distincti
 
 Еще изменяем!
 Changed!!!
+
+И сюда добавляем! Проверим как работает Git!
